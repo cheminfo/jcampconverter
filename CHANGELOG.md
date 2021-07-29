@@ -1,5 +1,12 @@
 # Changelog
 
+### [8.1.5](https://www.github.com/cheminfo/jcampconverter/compare/v8.1.4...v8.1.5) (2021-07-29)
+
+
+### Bug Fixes
+
+* update dependencies ([602f123](https://www.github.com/cheminfo/jcampconverter/commit/602f123e8b0053e5b53bbbcf032122ce1ed82f0d))
+
 ### [8.1.4](https://www.github.com/cheminfo/jcampconverter/compare/v8.1.3...v8.1.4) (2021-07-12)
 
 
