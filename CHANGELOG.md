@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.2.0](https://www.github.com/cheminfo/jcampconverter/compare/v8.1.5...v8.2.0) (2021-09-07)
+
+
+### Features
+
+* use dynamic-typing package and parse hexadecimal values ([0b584f3](https://www.github.com/cheminfo/jcampconverter/commit/0b584f37b3b5dadbcb9b77ec40124ef5cb0a0af7))
+
 ### [8.1.5](https://www.github.com/cheminfo/jcampconverter/compare/v8.1.4...v8.1.5) (2021-07-29)
 
 
